@@ -1,0 +1,45 @@
+body{
+    background: rgb(28, 28, 141);
+    font: normal 15pt Arial;
+}
+
+header{
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+}
+
+
+section{
+    border-radius: 15px;
+    width: 500px;
+    background-color: white;
+
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.438);
+    padding: 15px;
+    margin: auto;
+}
+
+#foto{
+    margin: 20px;
+}
+
+
+
+footer{
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+
+.mes{
+    display: flex;
+    justify-content: space-between;
+}
+
+h2{
+    font-size: 22px;
+    text-align: center;
+}
